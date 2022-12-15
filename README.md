@@ -16,19 +16,20 @@ A mobile app , that teach kids languages in a fun, interactive, and visual way. 
 our character will always be there at the corner when the camera is on , he willl talk with u and make comments , and explain additional stuff sometimesss
 
 ## Learning languages
-    ### Object Detection
-        - The first approach would be Using your phone camera in order to live scan your entourage and detecting random objects , the detected object will be highlighted , its name appears under it and even its pronunciation.
-    ### Environment Detection (Situation)
-        - scanning your entourage with a picture you would take, a character appears and make a conversation with you, explaining to you where u are and some additional details about that place.
-        - this process will be using VPR , **Visual Place Recognition**
+
+   ### Object Detection
+   - The first approach would be Using your phone camera in order to live scan your entourage and detecting random objects , the detected object will be highlighted , its name appears under it and even its pronunciation.
+   
+   ### Environment Detection (Situation)
+   - scanning your entourage with a picture you would take, a character appears and make a conversation with you, explaining to you where u are and some additional details about that place.
+   - this process will be using VPR , **Visual Place Recognition**
+     
+   ### How:
+   
+   1- Detecting keypoints     
+   2- Describing them 
         
-    ### How:
+   The keypoints represent the important locations in the image, such as unique ones that differentiate it from any other environment. They are detected robustly by applying an algorithm to the needed image 
         
-        1- Detecting keypoints
-        
-        2- Describing them 
-        
-        The keypoints represent the important locations in the image, such as unique ones that differentiate it from any other environment. They are detected robustly by applying an algorithm to the needed image 
-        
-    - Quiz to test the knowledge
-        - quizz about stuff he learned or even words he learnt like “how do we say orange in arabic”
+   3- Quiz to test the knowledge
+      - quizz about stuff he learned or even words he learnt like “how do we say orange in arabic”
