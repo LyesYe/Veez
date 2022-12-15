@@ -2,6 +2,10 @@
 A mobile app , that teach kids languages in a fun, interactive, and visual way. Using AI , computer vision, and AR.
 
 
+![image](https://user-images.githubusercontent.com/64961951/207862884-fe632395-b16d-480f-8bd9-acdd2b43d212.png)
+
+
+
 # The project objectives & goals
 
 - Kids love screen time, but if you want your child to do a little less Pokémon chasing and a little more learning, there’s good news. our app combines technology and education to make learning more engaging, interactive, and—dare we say—*fun*
