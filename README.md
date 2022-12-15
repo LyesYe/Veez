@@ -5,6 +5,11 @@ A mobile app , that teach kids languages in a fun, interactive, and visual way. 
 ![image](https://user-images.githubusercontent.com/64961951/207862884-fe632395-b16d-480f-8bd9-acdd2b43d212.png)
 
 
+#Important Links
+
+## Presentation: https://www.canva.com/design/DAFK3Q_UWtg/arzO9SigAW77eSy14XatNg/view?utm_content=DAFK3Q_UWtg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+## UI/UX Prototype: https://www.figma.com/file/37ADiOLZmmwtztVtseJgSy/VEEZ?node-id=0%3A1&t=e9CVCPUMZI4yHOK6-1
+## Videos from the app: https://drive.google.com/drive/u/4/folders/15uW7tsBTHGt6fiiKLbTvMLiTwrNWDDgW
 
 # The project objectives & goals
 
